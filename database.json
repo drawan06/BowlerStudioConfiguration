@@ -2,7 +2,7 @@
   "workspace": {
     "https://github.com/drawan06/DouglasRawannametag.git": [
       "drawan06/DouglasRawannametag",
-      "1694616204814"
+      "1694616476161"
     ],
     "https://github.com/drawan06/cube_drawan06.git": [
       "https://github.com/drawan06/cube_drawan06.git",
@@ -27,7 +27,7 @@
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 28,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
