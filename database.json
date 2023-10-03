@@ -18,6 +18,10 @@
       "https://github.com/drawan06/DouglasRawannametag.git",
       "DouglasRawannametag.groovy"
     ],
+    "https://github.com/drawan06/SoSArdunio.git:SoSArdunio.ino": [
+      "https://github.com/drawan06/SoSArdunio.git",
+      "SoSArdunio.ino"
+    ],
     "https://github.com/drawan06/cube_drawan06.git:cube.groovy": [
       "https://github.com/drawan06/cube_drawan06.git",
       "cube.groovy"
