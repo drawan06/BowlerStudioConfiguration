@@ -1,0 +1,47 @@
+{
+  "workspace": {
+    "": [
+      "Project ",
+      "1696964209878"
+    ],
+    "https://github.com/drawan06/DouglasRawannametag.git": [
+      "drawan06/DouglasRawannametag",
+      "1694616476161"
+    ],
+    "https://github.com/drawan06/SoSArdunio.git": [
+      "drawan06/SoSArdunio",
+      "1696343107474"
+    ],
+    "https://github.com/drawan06/cube_drawan06.git": [
+      "https://github.com/drawan06/cube_drawan06.git",
+      "1694614245918"
+    ]
+  },
+  "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
+  "studio-open-git": {
+    "https://github.com/drawan06/DouglasRawannametag.git:DouglasRawannametag.groovy": [
+      "https://github.com/drawan06/DouglasRawannametag.git",
+      "DouglasRawannametag.groovy"
+    ],
+    "https://github.com/drawan06/SoSArdunio.git:SoSArdunio.ino": [
+      "https://github.com/drawan06/SoSArdunio.git",
+      "SoSArdunio.ino"
+    ],
+    "https://github.com/drawan06/cube_drawan06.git:cube.groovy": [
+      "https://github.com/drawan06/cube_drawan06.git",
+      "cube.groovy"
+    ]
+  },
+  "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 28.0,
+    "skinBranch": "0.25.2",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "notifiedArduinoDep": true
+  }
+}
