@@ -18,10 +18,6 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/drawan06/DouglasRawannametag.git:DouglasRawannametag.groovy": [
-      "https://github.com/drawan06/DouglasRawannametag.git",
-      "DouglasRawannametag.groovy"
-    ],
     "https://github.com/drawan06/SoSArdunio.git:SoSArdunio.ino": [
       "https://github.com/drawan06/SoSArdunio.git",
       "SoSArdunio.ino"
